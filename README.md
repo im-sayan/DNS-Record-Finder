@@ -1,4 +1,4 @@
-## DNS Record Finder
+## DNS Record Finder 🌐
 
 This project is a DNS Record Finder that extracts any website DNS record.
 
